@@ -1,0 +1,9 @@
+# ligroise
+
+Cross-platform speech denoising library.
+
+## modes
+
+- **Streaming** — calls, voice, live.
+- **Batch** — circles, stories, podcasts.ъ
+
